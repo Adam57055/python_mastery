@@ -1,3 +1,5 @@
+#Set a number
+#This number is what will be measured by the conditions
 age = 18
 
 if age < 18:
