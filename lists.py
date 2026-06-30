@@ -6,3 +6,10 @@ colors = [blue, red, green]
 
 
 #If we want to add or remove something from the list, we just use .add and .remove
+new_colors = colors.add(yellow) #a new variable is made to establish the new addition
+print(new_colors)
+
+colors_ = colors.remove(blue)
+print(colors_)
+
+#Now you try!
